@@ -72,7 +72,7 @@ CONTRIBUTOR| CONTRIBUTOR |
 <a href="https://github.com/Lord-official"><img src="https://github.com/Lord-official.png?size=100" width="100" height="100"></a> | [![WIZARD MD](http://github.com/SafwanGanz.png?size=100)](http://github.com/SafwanGanz) 
 [LORD-SER](https://github.com/Lord-official)  | [SAFWAN GANZ](https://github.com/SafwanGanz)
 FOR HELP | OWNER OF WHATS-FELIX MD|
-<a href="https://github.com/ᴡ4ʟᴋ36.ᴇғx"><img src="https://github.com/ᴡ4ʟᴋ36.ᴇғx.png?size=100" width="100" height="100"></a> | [![WIZARD MD](http://github.com/Alien-alfa.png?size=100)](http://github.com/Alien-alfa)  
+<a href="https://github.com/ᴡ4ʟᴋ36.ᴇғx"><img src="https://github.com/ᴡ4ʟᴋ36.ᴇғx.png?size=100" width="100" height="100"></a> | [![WIZARD MD](http://github.com/Alien-alfa.png?size=100)](http://janxbot/Alien-alfa)  
 [ANEES](https://github.com/ᴡ4ʟᴋ36.ᴇғx) | [ALIEN ALFA](https://Alien-alfa)
 MODIFYING AS PUBLIC | HEAD OF ALIEN ALFA WA BOT DEV COMMUNITY |
 
